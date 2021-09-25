@@ -1,0 +1,7 @@
+.result {
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    margin: 50px;
+    font-weight: bold;
+}
